@@ -4,6 +4,9 @@ This is a forked project of private-gpt with a web ui.
 
 Create a QnA chatbot on your documents without relying on the internet by utilizing the capabilities of local LLMs. Ensure complete privacy and security as none of your data ever leaves your local execution environment. Seamlessly process and inquire about your documents even without an internet connection. Inspired from [imartinez](https://github.com/imartinez)
 
+
+<img width="948" alt="pgpt" src="https://github.com/itssaptarshi/LocalGpt/assets/47927289/597e1f34-ee5d-479d-9792-907a1b38c2f8">
+
 ## Requirements
 
 * Python 3.8 or later
