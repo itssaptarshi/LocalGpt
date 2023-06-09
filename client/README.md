@@ -1,1 +1,1 @@
-# privateGPT Client
+# LocalGPT Client

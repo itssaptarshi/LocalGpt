@@ -1,4 +1,4 @@
-# privateGPT Server
+# LocalGPT Server
 
 A Flask application to manage your privateGPT instance.
 
