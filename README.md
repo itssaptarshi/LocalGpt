@@ -18,7 +18,7 @@ Create a QnA chatbot on your documents without relying on the internet by utiliz
    Make a new folder called models and save it in there.  
 
    Rename .env.example to .env
-   *** Make sure to put in the entire path of the model. Else it might cause issue ***
+   ***Make sure to put in the entire path of the model. Else it might cause issue***
 
 and run the below commands
 
